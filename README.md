@@ -17,7 +17,7 @@ Pull requests with any improvements / new recipes are also appreciated 🚀
 # License
 
 We take no responsibility if the result goes horribly wrong. Maybe don't serve this in a restaurant or somesuch.
-All contents of this repo are licensed under the GLWTS (Good Luck With That Sh!t) Public License :)
+All contents of this repo are licensed under the [GLWTS](https://github.com/me-shaon/GLWTPL/blob/master/NSFW_LICENSE) (Good Luck With That Sh!t) Public License :)
 
 # Building
 
