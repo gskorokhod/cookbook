@@ -11,6 +11,7 @@
 # Contributing
 
 In the spirit of FOSS cooking, you are welcome to use, modify, fork and share this however you want!
+
 Pull requests with any improvements / new recipes are also appreciated 🚀
 (Seriously)
 
